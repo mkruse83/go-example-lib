@@ -2,7 +2,7 @@ package wrap
 
 import (
 	"fmt"
-	"github.com/mkruse83/go-example-lib/v3/lib"
+	"github.com/mkruse83/go-example-lib/v2/lib"
 )
 
 func HelloWorld() {
