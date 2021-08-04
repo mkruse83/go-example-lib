@@ -1,4 +1,2 @@
-github.com/mkruse83/go-example-lib v0.0.0-20210804214805-0fc0e212fd9d h1:PJ+Lk3VHc9OQEmKFsFcoDTejiHey+Skn+o47jRqBB70=
-github.com/mkruse83/go-example-lib v0.0.0-20210804214805-0fc0e212fd9d/go.mod h1:/vjTgknMr53Tzl1aEeN0aI+U1OFnF4joPWQxRmGMtuE=
 github.com/mkruse83/go-example-lib/v2 v2.0.0-20210804220036-db53f66a7267 h1:YCOlymXl3suoPfaHcA1EGp6l4tKJ+VZYkLF/A3sc6a8=
 github.com/mkruse83/go-example-lib/v2 v2.0.0-20210804220036-db53f66a7267/go.mod h1:sMbcpRCmKgXa/zhZAeWcgf8e1F8WLyErwwL3w9bqdRQ=
