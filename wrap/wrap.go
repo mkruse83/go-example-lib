@@ -6,6 +6,6 @@ import (
 )
 
 func HelloWorld() {
-	fmt.Println("Hello from wrapper.")
+	fmt.Println("Hello from wrapper v1.")
 	lib.HelloWorld()
 }

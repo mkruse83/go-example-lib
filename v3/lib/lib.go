@@ -3,5 +3,5 @@ package lib
 import "fmt"
 
 func HelloWorld() {
-	fmt.Println("Hello World v3.")
+	fmt.Println("Hello from lib v3.")
 }
