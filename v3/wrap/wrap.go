@@ -5,7 +5,7 @@ import (
 	"github.com/mkruse83/go-example-lib/v2/lib"
 )
 
-func HelloWorld() {
+func HelloWorld(_ int) {
 	fmt.Println("Hello from wrapper v3.")
 	lib.HelloWorld()
 }
